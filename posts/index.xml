@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vytenio Bačkausko lab4</title>
+    
+    
+    
+    <link>https://VytenisBackauskas.github.io/posts/</link>
+    <description>Recent content in Posts on Vytenio Bačkausko lab4</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Nov 2022 16:22:29 +0200</lastBuildDate>
+    
+	<atom:link href="https://VytenisBackauskas.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Naujas puslapis VB lab4</title>
+      <link>https://VytenisBackauskas.github.io/posts/newpage/</link>
+      <pubDate>Wed, 23 Nov 2022 16:22:29 +0200</pubDate>
+      
+      <guid>https://VytenisBackauskas.github.io/posts/newpage/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin malesuada consequat nisl vel congue. Aenean in vulputate erat. Pellentesque ullamcorper sed dolor ac commodo. Cras et ante non dui scelerisque dictum ac id erat. Quisque ac massa sapien. Fusce ultricies nisl sed nisi varius tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
