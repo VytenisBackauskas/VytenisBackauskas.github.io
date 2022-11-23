@@ -9,10 +9,30 @@
     <description>Recent content on Vytenio Bačkausko lab4</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Nov 2022 16:22:29 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 23 Nov 2022 17:32:58 +0200</lastBuildDate>
     
 	<atom:link href="https://VytenisBackauskas.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Antras Puslapis - VB</title>
+      <link>https://VytenisBackauskas.github.io/posts/antraspuslapis/</link>
+      <pubDate>Wed, 23 Nov 2022 17:32:58 +0200</pubDate>
+      
+      <guid>https://VytenisBackauskas.github.io/posts/antraspuslapis/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          c&amp;#43;&amp;#43;Test code#include &amp;lt;bits/stdc&amp;#43;&amp;#43;.h&amp;gt; using namespace std; int main() { vector &amp;lt;int&amp;gt; arr1 = {1, 2, 3, 4}; vector &amp;lt;int&amp;gt; arr2 = {}; vector &amp;lt;float&amp;gt; arr3 = {1.2, 3.8, 3.0, 2.7, 6.6}; cout &amp;lt;&amp;lt; &amp;#34;Size of arr1: &amp;#34; &amp;lt;&amp;lt; arr1.size() &amp;lt;&amp;lt; endl; cout &amp;lt;&amp;lt; &amp;#34;Size of arr2: &amp;#34; &amp;lt;&amp;lt; arr2.size() &amp;lt;&amp;lt; endl; cout &amp;lt;&amp;lt; &amp;#34;Size of arr3: &amp;#34; &amp;lt;&amp;lt; arr3.size() &amp;lt;&amp;lt; endl; return 0; } 
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Naujas puslapis VB lab4</title>
